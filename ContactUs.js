@@ -50,7 +50,7 @@ const ContactUs = () => {
           onChange={phoneNumChangeHandler}
           value={phone}
         ></input>
-        <button type="submit"></button>
+        <button type="submit">Submit</button>
       </form>
     </>
   );

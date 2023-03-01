@@ -6,13 +6,13 @@ const MainHeader = () => {
       <nav>
         <ul>
           <li>
-            <NavLink to="/Welcome">Welcome</NavLink>
+            <NavLink to="/welcome">Welcome</NavLink>
           </li>
           <li>
-            <NavLink to="/Products">Products</NavLink>
+            <NavLink to="/products">Products</NavLink>
           </li>
           <li>
-            <NavLink to="/ContactUs">Contact Us</NavLink>
+            <NavLink to="/contactus">Contact Us</NavLink>
           </li>
         </ul>
       </nav>
